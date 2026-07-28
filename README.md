@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aarushichaddha/Daily-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aarushichaddha/Daily-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aarushichaddha/Daily-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/aarushichaddha/Daily-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aarushichaddha/Daily-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/aarushichaddha/Daily-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aarushichaddha/Daily-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aarushichaddha/Daily-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/aarushichaddha/Daily-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aarushichaddha/Daily-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aarushichaddha/Daily-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/aarushichaddha/Daily-DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aarushichaddha/Daily-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/aarushichaddha/Daily-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aarushichaddha/Daily-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
