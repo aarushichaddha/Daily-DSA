@@ -32,15 +32,21 @@ class Solution {
         int LH  = solve(root.left, start);
         int RH = solve(root.right, start);
 
+        // child nodes of start
+
         if(root.val==start){
 
             result = Math.max(LH, RH);
             return -1;
         }
 
+        // side where start do not exists
+
         else if(LH>=0 && RH>=0){
             return Math.max(LH, RH)+1;
         }
+
+        //node above the start
         else{
             int d = Math.abs(RH) + Math.abs(LH);
             result = Math.max(result, d);
