@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/aarushichaddha/Daily-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/aarushichaddha/Daily-DSA/tree/master/0141-linked-list-cycle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/aarushichaddha/Daily-DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0234-palindrome-linked-list) |
