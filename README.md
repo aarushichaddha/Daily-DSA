@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aarushichaddha/Daily-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1668-maximum-repeating-substring](https://github.com/aarushichaddha/Daily-DSA/tree/master/1668-maximum-repeating-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aarushichaddha/Daily-DSA/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/aarushichaddha/Daily-DSA/tree/master/1668-maximum-repeating-substring) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/aarushichaddha/Daily-DSA/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
