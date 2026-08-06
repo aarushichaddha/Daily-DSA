@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/1019-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
