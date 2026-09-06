@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aarushichaddha/Daily-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/aarushichaddha/Daily-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aarushichaddha/Daily-DSA/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aarushichaddha/Daily-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/aarushichaddha/Daily-DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aarushichaddha/Daily-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/aarushichaddha/Daily-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/aarushichaddha/Daily-DSA/tree/master/0200-number-of-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/aarushichaddha/Daily-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aarushichaddha/Daily-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aarushichaddha/Daily-DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/aarushichaddha/Daily-DSA/tree/master/0056-merge-intervals) |
+| [0200-number-of-islands](https://github.com/aarushichaddha/Daily-DSA/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aarushichaddha/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -188,4 +191,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aarushichaddha/Daily-DSA/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/aarushichaddha/Daily-DSA/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aarushichaddha/Daily-DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
