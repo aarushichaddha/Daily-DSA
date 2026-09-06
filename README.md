@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aarushichaddha/Daily-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aarushichaddha/Daily-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aarushichaddha/Daily-DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aarushichaddha/Daily-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aarushichaddha/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -139,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aarushichaddha/Daily-DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aarushichaddha/Daily-DSA/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aarushichaddha/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Monotonic Stack
@@ -162,4 +166,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aarushichaddha/Daily-DSA/tree/master/0056-merge-intervals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
