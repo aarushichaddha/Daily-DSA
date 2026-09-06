@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aarushichaddha/Daily-DSA/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/aarushichaddha/Daily-DSA/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aarushichaddha/Daily-DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/aarushichaddha/Daily-DSA/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aarushichaddha/Daily-DSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
