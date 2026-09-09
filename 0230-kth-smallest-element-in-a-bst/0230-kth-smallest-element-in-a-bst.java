@@ -15,8 +15,8 @@
  */
 class Solution {
     public int kthSmallest(TreeNode root, int k) {
+        
         List<Integer> kth = inorder(root);
-
         return kth.get(k-1);
     }
 
@@ -30,6 +30,5 @@ class Solution {
         list.addAll(inorder(root.right));
 
         return list;
-
     }
 }
