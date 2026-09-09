@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public int kthSmallest(TreeNode root, int k) {
+    /**public int kthSmallest(TreeNode root, int k) {
         
         List<Integer> kth = inorder(root);
         return kth.get(k-1);
@@ -30,5 +30,23 @@ class Solution {
         list.addAll(inorder(root.right));
 
         return list;
+    }**/
+
+    int count=0;
+
+    public int kthSmallest(TreeNode root, int k) {
+        
+       if(root==null)
+        return -1;
+
+        int left =  kthSmallest(root.left, k);
+        if(left!=-1)
+        return left;
+        count++;
+
+        if(count==k)
+        return root.val;
+
+        return kthSmallest(root.right, k);
     }
 }
