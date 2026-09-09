@@ -18,13 +18,13 @@ class Solution {
         Queue<TreeNode> queue = new LinkedList<TreeNode>();
         List<List<Integer>> list = new LinkedList<List<Integer>>();
 
-        if(root==null) return list;
+        if(root==null)
+        return list;
 
         queue.offer(root);
         while(!queue.isEmpty()){
             int size = queue.size();
-
-            List<Integer> subList = new LinkedList<Integer>();
+            List<Integer> subList = new ArrayList<>();
 
             for(int i=0;i<size;i++){
                 if(queue.peek().left!=null) queue.offer(queue.peek().left);
@@ -35,6 +35,7 @@ class Solution {
 
             list.add(subList);
         }
+
         return list;
     }
 }
