@@ -14,23 +14,22 @@
  * }
  */
 class Solution {
+    List<Integer> list = new ArrayList<>();
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
-        view(root, 0, list);
-        return list;
 
+        helper(root, 0);
+        return list;
+        
     }
 
-    public void view(TreeNode root, int level, List<Integer> list){
+    public void  helper(TreeNode root, int level){
         if(root==null)
         return;
 
         if(list.size()==level){
             list.add(root.val);
         }
-
-        view(root.right, level+1, list);
-        view(root.left, level+1, list);
-
+        helper(root.right, level+1);
+        helper(root.left, level+1);
     }
 }
