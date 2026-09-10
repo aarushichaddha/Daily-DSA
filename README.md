@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aarushichaddha/Daily-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aarushichaddha/Daily-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/aarushichaddha/Daily-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/aarushichaddha/Daily-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aarushichaddha/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aarushichaddha/Daily-DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aarushichaddha/Daily-DSA/tree/master/0213-house-robber-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/aarushichaddha/Daily-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/aarushichaddha/Daily-DSA/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/aarushichaddha/Daily-DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/aarushichaddha/Daily-DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aarushichaddha/Daily-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aarushichaddha/Daily-DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
