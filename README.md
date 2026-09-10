@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aarushichaddha/Daily-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/aarushichaddha/Daily-DSA/tree/master/0198-house-robber) |
 | [1668-maximum-repeating-substring](https://github.com/aarushichaddha/Daily-DSA/tree/master/1668-maximum-repeating-substring) |
 ## Linked List
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aarushichaddha/Daily-DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/aarushichaddha/Daily-DSA/tree/master/0056-merge-intervals) |
+| [0198-house-robber](https://github.com/aarushichaddha/Daily-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aarushichaddha/Daily-DSA/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/aarushichaddha/Daily-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0994-rotting-oranges](https://github.com/aarushichaddha/Daily-DSA/tree/master/0994-rotting-oranges) |
