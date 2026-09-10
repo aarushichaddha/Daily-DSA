@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarushichaddha/Daily-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/aarushichaddha/Daily-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/aarushichaddha/Daily-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aarushichaddha/Daily-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aarushichaddha/Daily-DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aarushichaddha/Daily-DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/aarushichaddha/Daily-DSA/tree/master/0056-merge-intervals) |
+| [0128-longest-consecutive-sequence](https://github.com/aarushichaddha/Daily-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/aarushichaddha/Daily-DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aarushichaddha/Daily-DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/aarushichaddha/Daily-DSA/tree/master/0213-house-robber-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aarushichaddha/Daily-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aarushichaddha/Daily-DSA/tree/master/0200-number-of-islands) |
 ## Binary Lifting
 |  |
